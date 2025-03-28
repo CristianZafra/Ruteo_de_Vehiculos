@@ -18,7 +18,7 @@ Se cargan dos archivos:
 
 ---
 
-## ?? ¦ Tecnologías y bibliotecas utilizadas
+## Tecnologías y bibliotecas utilizadas
 
 - Pitón 3
 - Colaboración de Google
